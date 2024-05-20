@@ -13,7 +13,7 @@ const Analytics = () => {
             An AR training platform designed for call center agents. Empowered by VR/AR technologys to provide an immersive learning environment for call center representatives.
 
           </p>
-          <button className='bg-indigo-600] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-white'>Get Started</button>
+          <button className='bg-white w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
         </div>
       </div>
     </div>
