@@ -1,6 +1,5 @@
 import React from 'react';
 import Analytics from './Components/Analytics';
-import FAQ from './Components/FAQ';
 import Footer from './Components/Footer';
 import Hero from './Components/Hero';
 import Navbar from './Components/Navbar';
@@ -16,7 +15,6 @@ function App() {
       <Analytics />
       <Content/>
       <Newsletter />
-      <FAQ/>
       <Footer />
     </div>
   );
