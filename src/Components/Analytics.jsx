@@ -1,11 +1,12 @@
 import React from 'react';
-import vrperson from '../assets/vrperson.jpg';
+import splasheado from '../assets/splasheado.png';
 
 const Analytics = () => {
   return (
-    <div className='w-full background-color: #000300'>
+    <div className='w-full bg-gradient-to-r from-violet-500 to-fuchsia-500'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[500px] mx-auto my-4' src={vrperson} alt='/' />
+        <img className='w-[500px] mx-auto my-4' src={splasheado} alt='/' />
+        
 
         <div className='flex flex-col justify-center'>
           <h1 className='text-indigo-600 md:text-6xl sm:text-3xl text-center text-2xl font-bold py-2'>What is E-mpathy?</h1>
@@ -17,6 +18,7 @@ const Analytics = () => {
         </div>
       </div>
     </div>
+    
   );
 };
 
