@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
-      <h1 className='w-full text-3xl font-bold text-indigo-600'>E-MPHATY.</h1>
+      <h1 className='w-full text-3xl font-bold text-indigo-600'>Enterprise Company 🫡</h1>
       <ul className='hidden md:flex'>
         <li className='p-4' ><a href="www.google.com" class="font-semibold text-white"> Home</a></li>
         <li className='p-4'><a href="www.google.com" class="font-semibold text-white"> About</a></li>
